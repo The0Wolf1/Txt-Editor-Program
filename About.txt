@@ -1,0 +1,4 @@
+This is a text editor written purely in Python with Tkinter. 
+The program was inspired by Bro Code's YouTube video... Most of the source code is my own interpertation
+
+GitHub: https://github.com/The0Wolf1
